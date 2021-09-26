@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Social proof section coding challenge](../images/MyWebsiteScreenshot 2021 09 -26.png)
 
 ## Welcome! 👋
 
