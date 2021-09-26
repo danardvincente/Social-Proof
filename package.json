@@ -1,0 +1,11 @@
+{
+  "name": "social_proof",
+  "version": "1.0.0",
+  "description": "Social Proof",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:dist/css"
+  },
+  "author": "",
+  "license": "ISC"
+}
